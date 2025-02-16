@@ -1,6 +1,6 @@
 # SmartGlassesManager
 
-**SmartGlassesManager** is now part of **AugmentOS**, the #1 way to make a smart glasses app. Check it out [here](https://github.com/teamopensmartglasses/augmentos)!
+### Update 2024 - **SmartGlassesManager** is now part of [AugmentOS](https://augmentos.org/), a unifying OS for smart glasses such as *Even Reality G1* and *Vuzix Z100*. It combines your favorite smart glasses apps, an app store, and SDK. We hope you like it <3
 
 <p align="center">
     <img src="./res/SGM_app_icon_google_play.png" width="25%">
